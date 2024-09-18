@@ -9,18 +9,24 @@ FT2024{Ohw wkh txhvw ehjlq}
 
 ##### Walkthrough
 ---
+
 This is a Caeser cipher. It is a substitution cipher where each letter is replaced by another letter by a fixed number(called offset) down the alphabet. This method is named after Julius Caesar, who used it in his private correspondence.
 
 You can use any online cipher identifier. Search for "cipher identifier".
 
+
+
 ![](images/Pasted%20image%2020240919013728.png)
+
 
 ***dcode.fr*** is an amazing website for detecting different types of cipher,  https://www.dcode.fr/cipher-identifier . You can also decrypt here.
 
 
+
 ![](images/Pasted%20image%2020240919005850.png)
 
-Ans: ==CQ2024{Let the quest begin}==
+
+Ans: ***CQ2024{Let the quest begin}***
 
 
 
@@ -34,6 +40,8 @@ Lost in a sea of symbols, a hidden message awaits discovery. Armed with only 8 c
 
 ##### Walkthrough
 ---
+
+
 If you search this lines in online, they refers to a programming language called Brainfuck cipher. It is basically an esoteric programming language.
 
 ![](images/Pasted%20image%2020240919011509.png)
@@ -42,7 +50,7 @@ You can search for any brainfuck cipher decoder online, and decode it.
 
 ![](images/Pasted%20image%2020240919010631.png)
 
-Ans : ==CQ2024{The auditorium echoed loudly}==
+Ans : ***CQ2024{The auditorium echoed loudly}***
 
 
 
@@ -60,15 +68,19 @@ The date (dd/mm/yyyy): ?
 
 ##### Walkthrough
 ---
+
+
 This is a image of Begum Khaleda Zia. There is a memorial plaque on the wall of Registrar building in remembrance of the ingauguration OIC Conference by her. 
 
 The question basically asks you a date which you can see on that plaque, 29 October, 2001
 
-Ans : ==29/10/2001==
+Ans : ***29/10/2001***
 
 ![](images/Pasted%20image%2020240919011835.png)
 
+
 Also there is a number on the floor infront of the plaque, *101*
+
 
 ![](images/Pasted%20image%2020240919012054.png)
 
@@ -84,26 +96,38 @@ A large number of students make their way to IUT every year. Many people bid far
 You are looking for a shiny European city!
 
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfvJ5f9Yugqds77XMJnv6H-DnQQRqs0RaSTMSulf-2RLO-YJPNbkimtMKIpBqZKCbTqEX8Yrq4ZdoGdio8CzsGF-owIdY_4keVPr85gq-NhZlgNWEleVPkBocZhf6WT0okFAV3pDY7jRXNwVd6kOs5lXZBI?key=9u0nH3H42aeLnPaF-KmLCw)**
+
+
 ##### Walkthrough
 ---
+
+
 This type of problem is called OSINT, Open Source Intelligence, an analysis of data gathered from open sources.
 
 Seeing this photo, what you can do is that search it in Google image search which is a powerful image search tool.
 
+
+
 ![](images/Pasted%20image%2020240919012640.png)
 
+
+
 The first image looks very much similar to the image that is given in the question. You can click on that link.
+
 
 ![](images/Pasted%20image%2020240919012653.png)
 
 
 In the website, you can see the location.
 
+
 ![](images/Pasted%20image%2020240919012843.png)
+
 
 The city is Rotterdam which is in Netherland.
 
-Ans : ==CQ2024{Rotterdam}==
+
+Ans : ***CQ2024{Rotterdam}***
 
 
 
@@ -117,7 +141,7 @@ Ans : ==CQ2024{Rotterdam}==
 ---
 
 
-Ans : CQ2024{x.com/BilaiIlish}
+Ans : ***CQ2024{x.com/BilaiIlish}***
 
 
 
@@ -126,32 +150,42 @@ Ans : CQ2024{x.com/BilaiIlish}
 ### Question 6
 ---
 
+
 Follower of Batash Khan says he had mystic powers. But when researching, all that the archeologists could find in the ancient relics were:
 `eeeeeeeeeepaeaeeeaeeeeeeeaeeeeeeeeeeccccisaaaiiijeeeeeeeeeeeeeejceeeeeeeeeeeeeeeeeeeejiijeejeejaaeeeeeeeeeeeeeeeeeeeeeeejceejaiiiiiiiiiiiiiiiiiijeeejiiiiiiijeeeeeeeeejeeeeeejcciiiiiiiiiiiiiiiiiiiijaaiiiiiiiiiiiiijeejiiiiiiiijeeeeeeeeeeeeejeeeeeejccjaaeeejiiiiiiiiiiiiiijeeeeeeeeeeejiiiiiiiiiiiijccjaaeeeeeeeeeeejiiijiiiiiiijeeeeejjiiiiijeeeeejiiiiiiijccjaaiiiiiijeeeeeeeeeeeeeeeeejiiiiijeeeeeejcceeeeeeeeeeeejiiiiiiiiiiiijaeeeeeeeeeeeeeeeejiijaiiijeeeejejiiijceeeeeeeejaiiiijciijcjaaeeeeeeeeejceejeeeeejiiiiiiiiiijceeeeeeejaaiiiijcciiiiiiijaeeejiijaiiiiijeeeeeejceeeeeeejiiiiiiijcjaiijeeeeejiiiiiiijaiijiiiiijeeeeeejeeeeeeeeeej`
+
 
 ##### Walkthrough
 ---
 
+
 The google does not give any fruitful result about the cipher.
+
 
 ![](images/Pasted%20image%2020240919013342.png)
 
 
 Let's ask the Chatgpt. But gpt does not also give the correct name of the cipher. You can cross check it.
 
+
 ![](images/Pasted%20image%2020240919013627.png)
 
 Let's again ask ***decode.fr***
 
+
 ![](images/Pasted%20image%2020240919013942.png)
+
 
 Bingo! It says it is a **Alphuck Cipher**. Let's decrypt it.
 
+
 ![](images/Pasted%20image%2020240919014045.png)
 
-Ans: ==CQ2024{Silent giant with spinning arms, capturing wind's gentle charms}==
+
+Ans: ***CQ2024{Silent giant with spinning arms, capturing wind's gentle charms}***
 
 This lines indicate `windmill`. There is a windmill in `IUT`. Hope you find it.
+
 
 ![](images/Pasted%20image%2020240919021832.png)
 
@@ -170,6 +204,8 @@ Can you uncover what he was trying to say?  Perhaps you need to dig deeper.
 
 ##### Walkthrough
 ---
+
+
 This problem is quite hard. You have to find a facebook profile named "El Macho".
 
 ![](images/Pasted%20image%2020240919014900.png)
@@ -190,13 +226,17 @@ If you go through the profile, you will see a bunch of cat related memes. But on
 
 The post seems normal. But if you go to the edit history of the post, you will see the answer.
 
+
 ![](images/Pasted%20image%2020240919020513.png)
+
 
 Click on "view edit history".
 
+
 ![](images/Pasted%20image%2020240919020550.png)
 
-Ans : ==CQ2024{porashunaonkpera}==
+
+Ans : ***CQ2024{porashunaonkpera}***
 
 
 
@@ -209,13 +249,20 @@ Ans : ==CQ2024{porashunaonkpera}==
 
 ##### Walkthrough
 ---
+
+
 Let's search it on Google Image Search.
+
 
 ![](images/Pasted%20image%2020240919021219.png)
 
+
 Let's click on some links. After surfing through some links, you will know this is a betamaze cipher. For example, let's click on this reddit post.
 
+
 ![](images/Pasted%20image%2020240919021341.png)
+
+
 
 This suggests that our cipher is betamaze.
 ![](images/Pasted%20image%2020240919021401.png)
@@ -225,11 +272,14 @@ Let's go to `decode.fr` and search for Betamaze cipher and decrypt it.
 
 ![](images/Pasted%20image%2020240919021526.png)
 
-Ans : ==**CQ2024{Silent dish points skyward, catching whispers from the stars}**==
+
+Ans : ***CQ2024{Silent dish points skyward, catching whispers from the stars}***
+
 
 This line indicate a satellite dish. There is a satellite dish near the parking lot in `IUT`.
 
 ![](images/Pasted%20image%2020240919021927.png)
+
 
 
 
@@ -240,19 +290,28 @@ This line indicate a satellite dish. There is a satellite dish near the parking 
 
 01010001 00110001 01000101 01111001 01001101 01000100 01001001 00110000 01100101 00110000 01100100 01110110 01001001 01000111 01001010 01101100 01100001 01000111 01101100 01110101 01011010 01000011 01000010 00110000 01100001 01000111 01010101 01100111 01010001 01010111 01001110 01101000 01011010 01000111 01010110 01110100 01100001 01010111 01001101 01100111 01010001 01101110 01010110 01110000 01100010 01000111 01010010 01110000 01100010 01101101 01100011 01100111 01001101 01101110 00110000 00111101
 
+
 ##### Walkthrough
 ---
+
+
 The question gives us the important clue. ".....binary or base 64". As the numbers are in binary, what you have to do is that, convert this binary code into ASCII text. 
+
+
 
 ![](images/Pasted%20image%2020240919022232.png)
 
+
 You will find this , `Q1EyMDI0e0dvIGJlaGluZCB0aGUgQWNhZGVtaWMgQnVpbGRpbmcgMn0=` 
+
 
 This is basically a `Base-64` string. Search online for any `Base-64 to ASCII` converter.
 
+
 ![](images/Pasted%20image%2020240919022444.png)
 
-Ans : ==CQ2024{Go behind the Academic Building 2}==
+
+Ans : ***CQ2024{Go behind the Academic Building 2}***
 
 
 
@@ -266,6 +325,8 @@ Ans : ==CQ2024{Go behind the Academic Building 2}==
 
 ##### Walkthrough
 ---
+
+
 These are hash values. If you ask Chatgpt, it will tell you this.
 
 ![](images/Pasted%20image%2020240919022818.png)
@@ -274,7 +335,7 @@ This is basically `MD5 Hash`. You can use any `hash decoder` online. One popular
 
 ![](images/Pasted%20image%2020240919022956.png)
 
-Ans : ==CQ2024{It's ok not to know all the answers}==
+Ans : ***CQ2024{It's ok not to know all the answers}***
 
 
 
